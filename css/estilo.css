@@ -1,0 +1,83 @@
+body {
+    margin: 24px;
+    
+
+}
+
+h1 {
+    margin: 8px;
+    text-align: center;
+    color: white;
+
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    margin-left: 64px;
+}
+
+h2{
+   margin: 16px;
+}
+
+h3{
+    margin-left: 64px;
+    margin-top: 32px;
+}
+
+.cabeçalho{
+    background-color: #21022d;
+    color: white;
+    text-align: center;
+}
+
+.cor-de-fundo{
+    background-color: #e2d8e7;
+}
+
+.legenda{
+    margin-left: 64px;
+}
+
+.sem-lactose{
+    text-align: center;
+    
+}
+
+.legenda2{
+    margin-left: 64px;
+}
+
+.legenda-3{
+    margin-left: 64px;
+}
+
+.legenda4{
+    margin-left: 64px;
+}
+
+.legenda5{
+    margin-left: 64px;
+}
+
+.legenda6{
+    margin-left: 64px;
+    margin-bottom: 64px;
+}
+
+.img-vitamina{
+    width: 600px;
+    height: 300px;
+    margin-top: 32px;
+}
+
+.rodape{
+    background-color: #21022d;
+    color: white;
+    text-align: center;
+}
+
+.cardapio{
+    margin: 16px;
+}
